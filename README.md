@@ -2,7 +2,7 @@
 
 The Invisible-Cloak is a computer vision project that uses image processing techniques to create the illusion of an invisibility cloak. The project is inspired by the cloak featured in the Harry Potter series, which makes the wearer invisible. However, unlike the magical cloak in the series, this project uses computer vision to create the illusion of invisibility.
 
-##Demo
+## Demo
 
 https://youtu.be/Txrs2_26Y08
 
